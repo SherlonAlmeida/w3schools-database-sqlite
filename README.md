@@ -19,8 +19,7 @@ When the SQL file is executed, it creates a database with the following tables:
     shippers
     suppliers
     
-and inserts the respective data.
+and inserts the respective data. <br>
 
-The ER Diagram is presented below:
-
-[alt text](https://github.com/SherlonAlmeida/w3schools-database-sqlite/blob/master/ERDiagram.png)
+The ER Diagram is presented below: <br>
+![alt text](https://github.com/SherlonAlmeida/w3schools-database-sqlite/blob/master/ERDiagram.png) <br>
